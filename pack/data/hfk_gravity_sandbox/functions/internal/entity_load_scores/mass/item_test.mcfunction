@@ -1,0 +1,1 @@
+execute if entity @s[type=item] run function hfk_gravity_sandbox:internal/entity_load_scores/mass/item

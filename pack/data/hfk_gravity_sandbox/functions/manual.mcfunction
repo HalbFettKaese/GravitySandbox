@@ -1,0 +1,3 @@
+tellraw @s ["", {"text":"Manual", "bold": true, "color": "dark_red", "underlined": true}, "\n\n", {"text": "Data pack: Gravity Sandbox\nCreator: HalbFettKäse/the der discohund", "color": "gray"}] 
+tellraw @s [{"text":"\n", "clickEvent":{"action": "run_command", "value": "/function hfk_gravity_sandbox:manual_tags"}}, {"text": "[CLICK] ", "color":"yellow", "bold": true}, {"text":"Usable tags", "color":"red", "underlined": true}]
+tellraw @s [{"text":"\n", "clickEvent":{"action": "run_command", "value": "/function hfk_gravity_sandbox:manual_scores"}}, {"text": "[CLICK] ", "color":"yellow", "bold": true}, {"text":"Usable scores", "color":"red", "underlined": true}]

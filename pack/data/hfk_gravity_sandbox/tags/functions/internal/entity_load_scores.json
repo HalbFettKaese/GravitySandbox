@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "hfk_gravity_sandbox:internal/entity_load_scores/mass",
+        "hfk_gravity_sandbox:internal/entity_load_scores/radius"
+    ]
+}
